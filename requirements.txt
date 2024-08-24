@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+datasets
+albumentations
+opencv-python
+Pillow
+matplotlib
+huggingface-hub

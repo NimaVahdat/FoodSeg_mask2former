@@ -1,0 +1,6 @@
+batch_size: 8                        # Batch size
+learning_rate: 0.00005               # Learning rate
+epochs: 100                          # Number of epochs
+save_path: 'path_to_save_model'      # Checkpoint save path
+load_checkpoint: null                # Checkpoint to load (or null)
+log_dir: 'path_to_tensorboard_logs'  # TensorBoard log dir
