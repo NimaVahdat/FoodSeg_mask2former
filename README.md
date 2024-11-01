@@ -8,8 +8,9 @@ This project focuses on fine-tuning the Mask2Former model for semantic segmentat
 
 See the Gradio interface in action with the GIF below. 🍴✨
 
-![Gradio Demo](https://github.com/NimaVahdat/FoodSeg_mask2former/blob/main/demo.gif)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NimaVahdat/FoodSeg_mask2former/main/demo.gif">
+</div>
 
 ## 🚀 Getting Started
 
